@@ -4,8 +4,6 @@
 /tmp/
 /coverage/
 /e2e/test-output/
-/.angular/
-.angular/
 
 # Node modules and dependency files
 /node_modules/
@@ -14,6 +12,9 @@
 
 # Environment files
 /.env
+
+# Any zip file
+/.zip
 
 # Angular CLI and build artefacts
 /.angular-cli.json
